@@ -1,0 +1,11 @@
+SAE 15
+
+Mettre ses softskills
+
+Extraction de données à l'aide de python
+Mettre en valeur les données à l'aide d'excel
+
+comment calculer la durée?
+Comment faire varier le nombre de caractères dans le cas où nous avons des noms de nombres de caractères différents?
+
+-Trouver les activités suspectes
